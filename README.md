@@ -471,6 +471,9 @@ __NOTE(S)__:
      ```console
      su ayush
      # Password: jiujitsu
+     
+     id
+     # rbash: /usr/lib/command-not-found: restricted: cannot specify `/' in command names
      ```
      __NOTE(S)__:
      - `ayush` __reuses__ passwords
